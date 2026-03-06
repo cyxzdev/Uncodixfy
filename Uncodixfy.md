@@ -145,168 +145,45 @@ This one is **THE BIGGEST NO**.
 If a UI choice feels like a default AI UI move, ban it and pick the harder, cleaner option.
 - Colors should stay calm, not fight.
 
+- You are bad at picking colors follow this priority order when selecting colors:
 
+1. **Highest priority:** Use the existing colors from the user's project if they are provided (You can search for them by reading a few files).
+2. If the project does not provide a palette, **get inspired from one of the predefined palettes below**.
+3. Do **not invent random color combinations** unless explicitly requested.
 
+You do not have to always choose the first palette. Select one randomly when drawing inspiration.
+---
 
-Dark Colorschemes
-Midnight Canvas
+# Dark Color Schemes
 
-Background: #0a0e27
-Surface: #151b3d
-Primary: #6c8eff
-Secondary: #a78bfa
-Accent: #f472b6
-Text: #e2e8f0
-Obsidian Depth
+| Palette | Background | Surface | Primary | Secondary | Accent | Text |
+|--------|-----------|--------|--------|----------|--------|------|
+| Midnight Canvas | `#0a0e27` | `#151b3d` | `#6c8eff` | `#a78bfa` | `#f472b6` | `#e2e8f0` |
+| Obsidian Depth | `#0f0f0f` | `#1a1a1a` | `#00d4aa` | `#00a3cc` | `#ff6b9d` | `#f5f5f5` |
+| Slate Noir | `#0f172a` | `#1e293b` | `#38bdf8` | `#818cf8` | `#fb923c` | `#f1f5f9` |
+| Carbon Elegance | `#121212` | `#1e1e1e` | `#bb86fc` | `#03dac6` | `#cf6679` | `#e1e1e1` |
+| Deep Ocean | `#001e3c` | `#0a2744` | `#4fc3f7` | `#29b6f6` | `#ffa726` | `#eceff1` |
+| Charcoal Studio | `#1c1c1e` | `#2c2c2e` | `#0a84ff` | `#5e5ce6` | `#ff375f` | `#f2f2f7` |
+| Graphite Pro | `#18181b` | `#27272a` | `#a855f7` | `#ec4899` | `#14b8a6` | `#fafafa` |
+| Void Space | `#0d1117` | `#161b22` | `#58a6ff` | `#79c0ff` | `#f78166` | `#c9d1d9` |
+| Twilight Mist | `#1a1625` | `#2d2438` | `#9d7cd8` | `#7aa2f7` | `#ff9e64` | `#dcd7e8` |
+| Onyx Matrix | `#0e0e10` | `#1c1c21` | `#00ff9f` | `#00e0ff` | `#ff0080` | `#f0f0f0` |
 
-Background: #0f0f0f
-Surface: #1a1a1a
-Primary: #00d4aa
-Secondary: #00a3cc
-Accent: #ff6b9d
-Text: #f5f5f5
-Slate Noir
+---
 
-Background: #0f172a
-Surface: #1e293b
-Primary: #38bdf8
-Secondary: #818cf8
-Accent: #fb923c
-Text: #f1f5f9
-Carbon Elegance
+# Light Color Schemes
 
-Background: #121212
-Surface: #1e1e1e
-Primary: #bb86fc
-Secondary: #03dac6
-Accent: #cf6679
-Text: #e1e1e1
-Deep Ocean
+| Palette | Background | Surface | Primary | Secondary | Accent | Text |
+|--------|-----------|--------|--------|----------|--------|------|
+| Cloud Canvas | `#fafafa` | `#ffffff` | `#2563eb` | `#7c3aed` | `#dc2626` | `#0f172a` |
+| Pearl Minimal | `#f8f9fa` | `#ffffff` | `#0066cc` | `#6610f2` | `#ff6b35` | `#212529` |
+| Ivory Studio | `#f5f5f4` | `#fafaf9` | `#0891b2` | `#06b6d4` | `#f59e0b` | `#1c1917` |
+| Linen Soft | `#fef7f0` | `#fffbf5` | `#d97706` | `#ea580c` | `#0284c7` | `#292524` |
+| Porcelain Clean | `#f9fafb` | `#ffffff` | `#4f46e5` | `#8b5cf6` | `#ec4899` | `#111827` |
+| Cream Elegance | `#fefce8` | `#fefce8` | `#65a30d` | `#84cc16` | `#f97316` | `#365314` |
+| Arctic Breeze | `#f0f9ff` | `#f8fafc` | `#0284c7` | `#0ea5e9` | `#f43f5e` | `#0c4a6e` |
+| Alabaster Pure | `#fcfcfc` | `#ffffff` | `#1d4ed8` | `#2563eb` | `#dc2626` | `#1e293b` |
+| Sand Warm | `#faf8f5` | `#ffffff` | `#b45309` | `#d97706` | `#059669` | `#451a03` |
+| Frost Bright | `#f1f5f9` | `#f8fafc` | `#0f766e` | `#14b8a6` | `#e11d48` | `#0f172a` |
 
-Background: #001e3c
-Surface: #0a2744
-Primary: #4fc3f7
-Secondary: #29b6f6
-Accent: #ffa726
-Text: #eceff1
-Charcoal Studio
-
-Background: #1c1c1e
-Surface: #2c2c2e
-Primary: #0a84ff
-Secondary: #5e5ce6
-Accent: #ff375f
-Text: #f2f2f7
-Graphite Pro
-
-Background: #18181b
-Surface: #27272a
-Primary: #a855f7
-Secondary: #ec4899
-Accent: #14b8a6
-Text: #fafafa
-Void Space
-
-Background: #0d1117
-Surface: #161b22
-Primary: #58a6ff
-Secondary: #79c0ff
-Accent: #f78166
-Text: #c9d1d9
-Twilight Mist
-
-Background: #1a1625
-Surface: #2d2438
-Primary: #9d7cd8
-Secondary: #7aa2f7
-Accent: #ff9e64
-Text: #dcd7e8
-Onyx Matrix
-
-Background: #0e0e10
-Surface: #1c1c21
-Primary: #00ff9f
-Secondary: #00e0ff
-Accent: #ff0080
-Text: #f0f0f0
-Light Colorschemes
-Cloud Canvas
-
-Background: #fafafa
-Surface: #ffffff
-Primary: #2563eb
-Secondary: #7c3aed
-Accent: #dc2626
-Text: #0f172a
-Pearl Minimal
-
-Background: #f8f9fa
-Surface: #ffffff
-Primary: #0066cc
-Secondary: #6610f2
-Accent: #ff6b35
-Text: #212529
-Ivory Studio
-
-Background: #f5f5f4
-Surface: #fafaf9
-Primary: #0891b2
-Secondary: #06b6d4
-Accent: #f59e0b
-Text: #1c1917
-Linen Soft
-
-Background: #fef7f0
-Surface: #fffbf5
-Primary: #d97706
-Secondary: #ea580c
-Accent: #0284c7
-Text: #292524
-Porcelain Clean
-
-Background: #f9fafb
-Surface: #ffffff
-Primary: #4f46e5
-Secondary: #8b5cf6
-Accent: #ec4899
-Text: #111827
-Cream Elegance
-
-Background: #fefce8
-Surface: #fefce8
-Primary: #65a30d
-Secondary: #84cc16
-Accent: #f97316
-Text: #365314
-Arctic Breeze
-
-Background: #f0f9ff
-Surface: #f8fafc
-Primary: #0284c7
-Secondary: #0ea5e9
-Accent: #f43f5e
-Text: #0c4a6e
-Alabaster Pure
-
-Background: #fcfcfc
-Surface: #ffffff
-Primary: #1d4ed8
-Secondary: #2563eb
-Accent: #dc2626
-Text: #1e293b
-Sand Warm
-
-Background: #faf8f5
-Surface: #ffffff
-Primary: #b45309
-Secondary: #d97706
-Accent: #059669
-Text: #451a03
-Frost Bright
-
-Background: #f1f5f9
-Surface: #f8fafc
-Primary: #0f766e
-Secondary: #14b8a6
-Accent: #e11d48
-Text: #0f172a
+---

@@ -53,3 +53,32 @@ Before (Typical GPT UI) | After (Uncodixified)
 </p>
 
 Before (Typical GPT UI) | After (Uncodixified)
+
+---
+## Agent Skill
+
+Uncodixfy is also available as an agent skill via SKILL.md. This works with any AI coding agent that supports the skill format (Claude Code, etc.).
+
+### Windows (PowerShell)
+
+```powershell
+git clone https://github.com/cyxzdev/Uncodixfy.git "$HOME\.claude\skills\uncodixfy"
+```
+
+### macOS
+
+```bash
+git clone https://github.com/cyxzdev/Uncodixfy.git ~/.claude/skills/uncodixfy
+```
+
+### Linux
+
+```bash
+git clone https://github.com/cyxzdev/Uncodixfy.git ~/.claude/skills/uncodixfy
+```
+
+Once installed, invoke it with:
+
+```text
+/uncodixfy
+```

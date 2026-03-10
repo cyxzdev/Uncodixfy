@@ -71,4 +71,6 @@ Once installed, invoke it with:
 ```text
 /uncodixfy
 ```
+## Star History
 
+[![Star History Chart](https://api.star-history.com/image?repos=cyxzdev/Uncodixfy&type=date&legend=top-left)](https://www.star-history.com/?repos=cyxzdev%2FUncodixfy&type=date&legend=top-left)

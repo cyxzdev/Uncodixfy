@@ -106,7 +106,7 @@ This one is **THE BIGGEST NO**.
 
 ## Specifically Banned (Based on  Mistakes)
 
-- Border radii in the 20px to 32px range across everything ( uses 12px everywhere - too much)
+- Border radius in the 20px to 32px range across everything ( uses 12px everywhere - too much)
 - Repeating the same rounded rectangle on sidebar, cards, buttons, and panels
 - Sidebar width around 280px with a brand block on top and nav links below (: 248px with brand block)
 - Floating detached sidebar with rounded outer shell
